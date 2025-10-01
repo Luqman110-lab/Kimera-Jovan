@@ -1,0 +1,5 @@
+{
+  "name": "Teacher Monitoring App",
+  "description": "A digital tool for administrators and supervisors to record and export classroom supervision, book checking, and work coverage reports.",
+  "requestFramePermissions": []
+}
